@@ -10,7 +10,7 @@ const quotedContact = {
   },
   message: {
     contactMessage: {
-      displayName: "B.M.B VERIFIED ✅",
+      displayName: "♤𝗑ᴾᴿᴼ♧ VERIFIED ✅",
       vcard: "BEGIN:VCARD\nVERSION:3.0\nFN:B.M.B VERIFIED ✅\nORG:BMB-TECH BOT;\nTEL;type=CELL;type=VOICE;waid=254769529791:+254769529791\nEND:VCARD"
     }
   }
@@ -47,7 +47,7 @@ async (conn, mek, m, { from }) => {
 📞 Number : ${ownerNumber}
 ⚙️ Role   : Developer & Founder
 📦 Version: 2.0.0 Beta
-⚡ Powered by 𝙽𝙾𝚅𝙰-𝚇𝙼𝙳 ⚡`;
+⚡ Powered by ♤𝗑ᴾᴿᴼ♧ ⚡`;
 
         await conn.sendMessage(from, {
             text: caption,

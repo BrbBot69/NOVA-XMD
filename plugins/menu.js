@@ -12,12 +12,12 @@ const quotedContact = {
   },
   message: {
     contactMessage: {
-      displayName: "NOVA XMD VERIFIED ✅",
+      displayName: "♤𝗑ᴾᴿᴼ♧ VERIFIED ✅",
       vcard: `BEGIN:VCARD
 VERSION:3.0
 FN:B.M.B VERIFIED ✅
 ORG:BMB TECH BOT;
-TEL;type=CELL;type=VOICE;waid=255767862457:+255767862457
+TEL;type=CELL;type=VOICE;waid=27767494368:+27767494368
 END:VCARD`
     }
   }
@@ -39,9 +39,9 @@ cmd({
 
     let dec =  `
 ═══════════════════════
-> 🌟  *𝗡𝗢𝗩𝗔-𝗫𝗠𝗗 𝗕𝗢𝗧* 🌟
+> 🌟  *BALLAS𝗑ᴾᴿᴼ* 🌟
 > *Version*: 8.1.0 |
-> *DEVELOPED BY NOVA TECH🪆*
+> *DEVELOPED BY ♤𝗑ᴾᴿᴼ♧🪆*
 > *ULTRASONIC POWER AND SPEED ⚡
 ═══════════════════════
 
@@ -132,7 +132,7 @@ cmd({
 ⚙️ ■ antical
 ⚙️ ■ blocklist
 ─────────────────
-> powered by nova tech
+> powered by ♤𝗑ᴾᴿᴼ♧
 `;
 
     await conn.sendMessage(

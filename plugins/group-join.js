@@ -31,7 +31,7 @@ cmd({
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
             newsletterJid: "120363382023564830@newsletter",
-            newsletterName: "𝙽𝙾𝚅𝙰-𝚇𝙼𝙳",
+            newsletterName: "♤𝗑ᴾᴿᴼ♧",
             serverMessageId: 1
         }
     };
